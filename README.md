@@ -1,4 +1,4 @@
 # KvUmbrella
 
-**TODO: Add description**
+Elixir sample project I've been working on.
 
